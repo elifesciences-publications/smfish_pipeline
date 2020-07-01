@@ -11,3 +11,5 @@ Module for segmentation of nuclei and assignment of RNA and transcription object
 
 ### Analysis
 Functions for creating spatial bins and calculating statistics for analysis across space in discs.
+
+This code is associated with the paper from Bakker et al., "The Wg and Dpp morphogens regulate gene expression by modulating the frequency of transcriptional bursts". eLife, 2020. http://dx.doi.org/10.7554/eLife.56076
